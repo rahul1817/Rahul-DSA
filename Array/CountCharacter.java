@@ -8,6 +8,7 @@ public class CountCharacter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string");
+        System.out.println("Shikhar test");
         String str = sc.nextLine();
         charCount(str);
     }
